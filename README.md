@@ -21,24 +21,24 @@ Repository Structure
 
 
 Task Summary
-Task 1: Digital Literacy Infographic
+*Task 1: Digital Literacy Infographic
 Created an infographic using Canva covering digital literacy concepts, tools, safe practices, and email etiquette.
-Task 2: Digital Portfolio
+*Task 2: Digital Portfolio
 Set up professional profiles on GitHub, LinkedIn, and Kaggle to build an online presence.
-Task 3: Platforms Exploration
+*Task 3: Platforms Exploration
 Completed a beginner coding challenge on HackerRank and created a Google Form quiz on digital literacy.
 Google Form Link:https://forms.gle/orKasGsHTXiJSojt9
-Task 4: Email Etiquette
+*Task 4: Email Etiquette
 Drafted two professional emails and created a social media Do’s and Don’ts checklist.
-Task 5: Cybercrime Awareness
+*Task 5: Cybercrime Awareness
 Prepared a case study on cybercrime and a prevention checklist to promote online safety.
 
 
  Learning Outcomes
-1.Improved understanding of digital literacy
-2.Learned to use online tools effectively
-3.Developed professional communication skills
-4.Gained awareness about cyber security and online safety
+*Improved understanding of digital literacy
+*Learned to use online tools effectively
+*Developed professional communication skills
+*Gained awareness about cyber security and online safety
 
 
 Tools & Platforms Used
